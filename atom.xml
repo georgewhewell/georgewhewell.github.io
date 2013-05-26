@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Bloog]]></title>
+  <link href="http://georgewhewell.github.io/atom.xml" rel="self"/>
+  <link href="http://georgewhewell.github.io/"/>
+  <updated>2013-05-26T21:25:19+01:00</updated>
+  <id>http://georgewhewell.github.io/</id>
+  <author>
+    <name><![CDATA[George Whewell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello!]]></title>
+    <link href="http://georgewhewell.github.io/blog/2013/05/26/hello/"/>
+    <updated>2013-05-26T21:13:00+01:00</updated>
+    <id>http://georgewhewell.github.io/blog/2013/05/26/hello</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
